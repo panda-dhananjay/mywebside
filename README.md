@@ -1,2 +1,2 @@
-# mywebside
-My Webside
+# mywebsite
+My Website
